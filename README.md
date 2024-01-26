@@ -1,4 +1,26 @@
-### Hi there 👋
+# Hi there, I'm Benjamin 👋
+
+## Introduction
+
+I'm a Data Analyst / Statisticain / Data Visualiser. 
+
+## Contact Me
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/benjamin-e/))
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](Email@Ben-Analytics.com)
+
+## Tech Stack
+
+Here are some of the technologies I'm comfortable with:
+
+- R
+- Python
+- C++
+- Git
+- D3.js
+- HTML
+- CSS
+- Prompt Engineering
 
 <!--
 **PixelInsight/PixelInsight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
