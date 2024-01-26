@@ -22,6 +22,11 @@ Here are some of the technologies I'm comfortable with:
 - CSS
 - Prompt Engineering
 
+## I’m currently working on ...
+
+- A study on the diamond trade, with visualizations focusing on the ethical aspects of the industry.
+- Applying complex analysis to forest light and creating visualizations.
+
 <!--
 **PixelInsight/PixelInsight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
