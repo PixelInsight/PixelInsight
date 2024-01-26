@@ -6,7 +6,7 @@ I'm a Data Analyst / Statistician / Data Visualiser.
 
 ## Contact Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([[https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/benjamin-e/)](https://www.linkedin.com/in/benjamin-e/))
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-e/))
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](Email@Ben-Analytics.com)
 
 ## Tech Stack
