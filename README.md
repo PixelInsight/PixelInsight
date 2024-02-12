@@ -18,6 +18,7 @@ Here are some of the technologies I'm comfortable with:
 - C++
 - Git
 - D3.js
+- Julia
 - HTML
 - CSS
 - Prompt Engineering
