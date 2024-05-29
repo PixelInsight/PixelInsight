@@ -7,7 +7,7 @@ I'm a Data Analyst / Statistician / Data Visualiser.
 ## Contact Me
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-e/)
-[![Email Badge](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Email@Ben-Analytics.com)
+[![Email Badge](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pixelinsight@protonmail.com)
 
 ## Tech Stack
 
