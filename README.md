@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I'm a Data Analyst / Statistician / Data Visualiser. 
+I'm a Data Scientist / Statistician / Data Visualiser. 
 
 ## Contact Me
 
